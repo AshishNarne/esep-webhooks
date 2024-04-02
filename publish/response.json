@@ -1,0 +1,9 @@
+{
+  "errorType": "LambdaValidationException",
+  "errorMessage": "Could not find the specified handler assembly with the file name 'LambdaTest, Culture=neutral, PublicKeyToken=null'. The assembly should be located in the root of your uploaded .zip file.",
+  "stackTrace": [
+    "at Amazon.Lambda.RuntimeSupport.Bootstrap.UserCodeLoader.Init(Action`1 customerLoggingAction) in /src/Repo/Libraries/src/Amazon.Lambda.RuntimeSupport/Bootstrap/UserCodeLoader.cs:line 98",
+    "at Amazon.Lambda.RuntimeSupport.Bootstrap.UserCodeInitializer.InitializeAsync() in /src/Repo/Libraries/src/Amazon.Lambda.RuntimeSupport/Bootstrap/UserCodeInitializer.cs:line 46",
+    "at Amazon.Lambda.RuntimeSupport.LambdaBootstrap.InitializeAsync() in /src/Repo/Libraries/src/Amazon.Lambda.RuntimeSupport/Bootstrap/LambdaBootstrap.cs:line 164"
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\EsepWebhook.dll
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\EsepWebhook.deps.json
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\EsepWebhook.runtimeconfig.json
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\EsepWebhook.pdb
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\Amazon.Lambda.Core.dll
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Ashish\EsepWebhook\src\EsepWebhook\publish\Newtonsoft.Json.dll

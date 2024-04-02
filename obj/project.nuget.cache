@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBYyD8qNEFu2d13qc9CYLCPtaB1WUS5nJl1GlQM1ySt4DobadQwzRqcP7a6ym9Jo/OglMkxvO5eKMYoIs7o+UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashish\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashish\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.0\\amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "C:\\Users\\Ashish\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ashish\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Ashish\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
